@@ -1,0 +1,3 @@
+interface CheckEngine {
+    void checkEngine();
+}
